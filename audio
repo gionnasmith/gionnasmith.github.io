@@ -1,0 +1,5 @@
+ <audio controls>
+  <source src="fnaf" type="audio/ogg">
+  <source src="five night at freddy" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
